@@ -55,8 +55,6 @@ brew w3m
 brew wget
 brew xz
 
-tap homebrew/dupes
-
 tap homebrew/services
 
 tap caskroom/cask
